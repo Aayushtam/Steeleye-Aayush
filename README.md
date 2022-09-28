@@ -4,8 +4,6 @@ https://github.com/steeleye/recruitment-ext/wiki/Python-Engineer-Assessment
 # Configuration
 S3 bucket name and the initial url to get xls file is parameterized in config.json.
 
-# AWS Lambda
-1. dict_creator.zip is ready to be deployed as a AWS Lambda function (dict_creator.lambda_handler).
 
 # Running the script
 1. To test the script, install all the dependencies in requirement.txt by executing the below command,
